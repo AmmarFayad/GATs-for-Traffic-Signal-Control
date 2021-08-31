@@ -21,4 +21,4 @@ To train a model (1 × 7 grid of intersections)
 python training_main.py
 ```
 
-A recoded video of the trained agent can be found [here](https://www.dropbox.com/s/7ls4g7v49cdjdg3/video.mov?dl=0). 
+A recoded video of a trained agent (1 traffic light) can be found [here](https://www.dropbox.com/s/7ls4g7v49cdjdg3/video.mov?dl=0). 
