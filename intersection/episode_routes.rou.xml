@@ -1,0 +1,13 @@
+<routes>
+                    <vType accel="1.0" decel="4.5" id="standard_car" length="5.0" minGap="2.5" maxSpeed="25" sigma="0.5" />
+                    
+                    <route id="0"  edges="A1B1 B1C1 C1D1 D1E1" />
+                    
+                    	
+            
+    <vehicle id="W_E_0" type="standard_car" route="0" depart="37.0" departLane="random" departSpeed="10" />
+    <vehicle id="W_E_1" type="standard_car" route="0" depart="44.0" departLane="random" departSpeed="10" />
+    <vehicle id="W_E_2" type="standard_car" route="0" depart="45.0" departLane="random" departSpeed="10" />
+    <vehicle id="W_E_3" type="standard_car" route="0" depart="48.0" departLane="random" departSpeed="10" />
+    <vehicle id="W_E_4" type="standard_car" route="0" depart="56.0" departLane="random" departSpeed="10" />
+</routes>
