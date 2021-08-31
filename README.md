@@ -1,4 +1,4 @@
-# traffic-signal-control
+# Graph Attention Networks for Traffic Signal Control
 
 To setup the environment with the necessary packages to run the simulation, follow the instructions below.
 1. Download and install [SUMO](https://sumo.dlr.de/docs/Downloads.php) (If you have Flow, you already have SUMO installed).
