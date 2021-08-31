@@ -16,7 +16,7 @@ This will prompt you a login code (it will open a new browser window and show yo
 When you start your training, you can simply visit Weights and Biases website and there will be a project named DQN ATL. Click on that project and you will see all the runs that you have run so far. Click on one of such runs to see the detailed plots corresponding to that run. 
 
 
-To train a model 
+To train a model (1 × 7 grid of intersections)
 ```
 python training_main.py
 ```
