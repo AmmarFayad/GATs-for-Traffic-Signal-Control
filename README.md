@@ -4,7 +4,7 @@ To setup the environment with the necessary packages to run the simulation, foll
 1. Download and install [SUMO](https://sumo.dlr.de/docs/Downloads.php) (If you have Flow, you already have SUMO installed).
 2. Create and activate a conda environment and install the dependencies within the environment. 
 
-3. We use Weights and Biases to track the progress of our training. To do this, first create a free account
+3. We use [Weights and Biases](https://wandb.ai) to track the progress of our training. To do this, first create a free account
 and log into the Weights and Biases website. You will see a dashboard. Then in terminal, run,
 ```
 wandb login
